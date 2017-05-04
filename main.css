@@ -9,3 +9,13 @@ table {
 h1 {
 	font-family: 'Love Ya Like A Sister', cursive;
 }
+
+p em {
+	font: "Abel", bold 12px sans-serif;
+	color: white;
+}
+
+p strong {
+	font: "Abel" bold 12px sans-serif;
+	color: white;
+}
